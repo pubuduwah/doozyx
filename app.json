@@ -1,9 +1,9 @@
 {
-  "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "name": "𝘿𝙊𝙊𝙕𝙔 𝙓 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏",
+  "logo": "https://telegra.ph/file/1a1e45687f12d6d2d2cc7.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/AnonymousR1025/FallenMusic",
+  "repository": "https://github.com/TEAM-DLK/doozyx",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -35,17 +35,17 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "DHANANJAYA_OFFICIALLY"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": "s_e_e_me"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1356469075"
+      "value": "5577264457"
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
@@ -63,7 +63,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": false,
-      "value": "90"
+      "value": "999"
     }
   }
 }
